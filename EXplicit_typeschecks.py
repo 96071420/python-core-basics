@@ -1,7 +1,7 @@
 def convert(s):
     if not isinstance(s, list):
         raise TypeError("Argument must be a list")
-
+# for git example
     try:
         number =''
         DIGIT_MAP =str

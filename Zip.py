@@ -12,5 +12,7 @@ for temps in zip(sunday, monday, sunday) :
 tuesday = [2,2,3,7,9,10,11,12,10, 9,8,8]
 for temps in zip(sunday,tuesday):
     print(f"min={min(temps):4.1f}, max={max(temps):4.1f}, average= {sum(temps)/ len(temps):4.f}")
+
     
+
   

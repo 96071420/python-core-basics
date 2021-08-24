@@ -1,0 +1,1 @@
+sum(x*x for x im)

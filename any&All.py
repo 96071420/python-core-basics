@@ -1,0 +1,5 @@
+any ([False, False, True])
+all([False, False, True])
+is_prime =()
+any(is_prime(x) for x in range(1328, 1361))
+all(name== name.title() for name in ['london','paris','Tokyo', 'new York','sydney'])

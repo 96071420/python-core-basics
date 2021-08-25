@@ -15,6 +15,6 @@ except ImportError:
          ch = sys.stdin.read(1)   
      finally:
         termios.tcssetattr(fd, termios.TCSADRAIN, original_attributes)
-     return ch
+     return ch 
      
      
